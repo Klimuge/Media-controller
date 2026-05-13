@@ -1,0 +1,8 @@
+### Footprint positions - created on 2026-05-04T20:40:10+0300 ###
+### Printed by KiCad version 9.0.8-9.0.8~ubuntu24.04.1
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val       Package                                     PosX       PosY       Rot  Side
+BT1       3.7V_3Ah  AMASS_XT60-M_1x02_P7.20mm_Vertical      100.6000   -88.8400  -90.0000  bottom
+lcd1      2004      JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical   172.5000   -86.0000  -90.0000  bottom
+## End
